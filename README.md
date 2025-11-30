@@ -26,17 +26,19 @@ Excel (Advanced), DAX<br>
 
 💻 Programming & Databases<br>
 Python, R, SQL, VBA<br>
-PostgreSQL, SQLite, MS Access
+PostgreSQL, SQLite, MS Access<br>
 
-📈 Data Concepts
-Data Cleaning & Analysis
-KPIs & Dashboards
-Statistics & Probability
-Optimization & Data Mining
-CRISP-DM, TDSP (Microsoft), KDD
+📈 Data Concepts<br>
+Data Cleaning & Analysis<br>
+KPIs & Dashboards<br>
+Statistics & Probability<br>
+Optimization & Data Mining<br>
+CRISP-DM, TDSP (Microsoft), KDD<br>
 
 📬 How to reach me
-📧 Email: Wissalhajjaji55@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/wissalhajjaji/
+---
+
+📧 Email: Wissalhajjaji55@gmail.com<br>
+🔗 LinkedIn: https://www.linkedin.com/in/wissalhajjaji/<br>
 
 💡 This profile will soon include real projects, dashboards and analytics case studies. Stay tuned!
