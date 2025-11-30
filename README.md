@@ -20,15 +20,15 @@ With an engineering background, I combine analytics, automation, and industrial 
 🛠️ Tools & Technologies
 ---
 
-📊 Data & BI<br>
+📊 Data & BI :<br>
 Power BI, Tableau, QlikView, QlikSense<br>
 Excel (Advanced), DAX<br>
 
-💻 Programming & Databases<br>
+💻 Programming & Databases :<br>
 Python, R, SQL, VBA<br>
 PostgreSQL, SQLite, MS Access<br>
 
-📈 Data Concepts<br>
+📈 Data Concepts :<br>
 Data Cleaning & Analysis<br>
 KPIs & Dashboards<br>
 Statistics & Probability<br>
@@ -40,5 +40,7 @@ CRISP-DM, TDSP (Microsoft), KDD<br>
 
 📧 Email: Wissalhajjaji55@gmail.com<br>
 🔗 LinkedIn: https://www.linkedin.com/in/wissalhajjaji/<br>
+
+
 
 💡 This profile will soon include real projects, dashboards and analytics case studies. Stay tuned!
